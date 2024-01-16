@@ -28,6 +28,7 @@
     padding: 0.5rem;
     border-radius: 4px;
     background-color: #fff;
+    color:'black';
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
   }
   .list:hover{
@@ -36,6 +37,7 @@
   }
   .list{
     transition: black 0.2s ease-in-out;
+    color:'black';
   }
   .button{
     background-color:'grey';
